@@ -1,0 +1,11 @@
+.banner{
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul{
+    list-style: nome;
+    display:flex;
+    flex-direction: column;
+}
